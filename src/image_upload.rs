@@ -85,11 +85,7 @@ async fn upload(bucket: &Bucket, key: String, image: &DynamicImage) -> worker::R
     let data = encode_image(image);
     let metadata = HttpMetadata {
         content_type: Some("image/jpeg".to_string()),
-        content_language: None,
-        content_disposition: None,
-        content_encoding: None,
-        cache_control: None,
-        cache_expiry: None,
+        ..HttpMetadata::default()
     };
     let _res = bucket
         .put(key, data)
