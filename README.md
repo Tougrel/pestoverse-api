@@ -1,9 +1,9 @@
 # Pestoverse API
 
-![License](https://shieldio.tougrel.dev/github/license/Tougrel/pestoverse-api?style=for-the-badge)
-![GitHub Contributors](https://shieldio.tougrel.dev/github/contributors/Tougrel/pestoverse-api?style=for-the-badge)
-![GitHub Issues](https://shieldio.tougrel.dev/github/issues/Tougrel/pestoverse-api?style=for-the-badge)
-![GitHub pull requests](https://shieldio.tougrel.dev/github/issues-pr/Tougrel/pestoverse-api?style=for-the-badge)
+[![License](https://shieldio.tougrel.dev/github/license/Tougrel/pestoverse-api?style=for-the-badge)](https://github.com/Tougrel/pestoverse-api/blob/main/LICENSE)
+[![GitHub Contributors](https://shieldio.tougrel.dev/github/contributors/Tougrel/pestoverse-api?style=for-the-badge)](https://github.com/Tougrel/pestoverse-api/graphs/contributors)
+[![GitHub Issues](https://shieldio.tougrel.dev/github/issues/Tougrel/pestoverse-api?style=for-the-badge)](https://github.com/Tougrel/pestoverse-api/issues)
+[![GitHub pull requests](https://shieldio.tougrel.dev/github/issues-pr/Tougrel/pestoverse-api?style=for-the-badge)](https://github.com/Tougrel/pestoverse-api/pulls)
 ![Static Badge](https://shieldio.tougrel.dev/badge/Powered_by_Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ## Wrangler
