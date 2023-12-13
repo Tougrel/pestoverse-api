@@ -8,6 +8,6 @@
   },
   "devDependencies": {
     "@miniflare/tre": "^3.0.0-next.13",
-    "wrangler": "^2.20.0"
+    "wrangler": "^3.20.0"
   }
 }
